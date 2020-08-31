@@ -25,7 +25,7 @@ Setup
  Admin access-
  Firstly for admin accessibility admin need to choose 2 option so there will create a customer table and admin will be registered automatically.
  Then admin need to login.
- credentials - EmailId =admin@gmail.com , Password = 123@admin
+ credentials - EmailId = admin@gmail.com , Password = 123@admin
  Roles of Admin-
  1.Can see all the products and add/delete products.
  Roles of User(customer)-
