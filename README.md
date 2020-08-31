@@ -1,6 +1,6 @@
 Shopping Cart   
 This sample application demonstrates a simple shopping cart built with python-mysql. It contains three services, a shopping cart service, for managing shopping carts, and managing customer order history.    
-The shopping cart service persist customer can buy a product and add their product into order list and one more service provided, a customer can add their item into cart in case of buying that product later.   
+The shopping cart service is a customer can buy a product and add their product into order list and one more service provided, a customer can add their item into cart in case of buying that product later.   
 Order histroy service is like a customer can see his/her previouse data/purchase-order in the form of excel sheet on console.   
  
 Setup  
@@ -25,7 +25,7 @@ Setup
  Admin access-   
  Firstly for admin accessibility admin need to choose 2 option so there will create a customer table and admin will be registered automatically.   
  Then admin need to login.   
- credentials - EmailId = admin@gmail.com , Password = 123@admin   
+ credentials - EmailId = admin@gmail.com , Password = Admin1234  
  Roles of Admin-   
  1.Can see all the products and add/delete products.   
  Roles of User(customer)-  
